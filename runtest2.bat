@@ -1,0 +1,1 @@
+npx playwright test tests/example2.spec.ts

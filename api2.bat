@@ -1,0 +1,1 @@
+npx playwright test tests/api2.spec.ts
