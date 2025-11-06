@@ -4,7 +4,7 @@ playwright demo running via batch file
 pre-reqs
 
 1)validate node version:
-node -v
+node -v (if node is installed)
 
 2) validate npm version
 npm  -version
