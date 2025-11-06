@@ -7,7 +7,7 @@ pre-reqs
 node -v
 
 2) validate npm version
-npm -version
+npm  -version
 
 3) install PLaywright's lastest version via npm and initialize it
 npm init playwright@latest
